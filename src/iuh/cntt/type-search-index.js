@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"iuh.cntt.khdl","l":"Course"},{"p":"iuh.cntt.khdl","l":"CourseList"},{"p":"<Unnamed>","l":"Main"},{"p":"iuh.cntt.khdl","l":"TestCourse"}];updateSearchResults();
